@@ -1,0 +1,28 @@
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\bin\Debug\Project SLIIT.exe
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\bin\Debug\Project SLIIT.pdb
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.Form1.resources
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.Properties.Resources.resources
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project SLIIT.csproj.GenerateResource.Cache
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project SLIIT.exe
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project SLIIT.pdb
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.Form4.resources
+c:\users\acer v5\documents\visual studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.frmSriDalada.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project SLIIT.csprojResolveAssemblyReference.cache
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.PeraBotGa.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.Other.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.GalleFort.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.Travel.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.Diary.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.Form2.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.map.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\obj\x86\Debug\Project_SLIIT.Form5.resources
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\bin\Debug\GalleFort.resx
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\bin\Debug\SLIIT PROJECT\CGM.resx
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\bin\Debug\GalleFort.cs
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\bin\Debug\GalleFort.Designer.cs
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\bin\Debug\SLIIT PROJECT\Form1.cs
+C:\Users\Acer v5\Documents\Visual Studio 2010\Projects\Project SLIIT\Project SLIIT\bin\Debug\SLIIT PROJECT\CGM.Designer.cs
+C:\Users\Acer v5\Desktop\Project SLIIT\obj\x86\Debug\Project SLIIT.exe
+C:\Users\Acer v5\Desktop\Project SLIIT\obj\x86\Debug\Project SLIIT.pdb
+D:\Project SLIIT\obj\x86\Debug\Project SLIIT.exe
+D:\Project SLIIT\obj\x86\Debug\Project SLIIT.pdb
